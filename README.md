@@ -1,6 +1,6 @@
 
 
-> # interface-do-spotify
+> # Interface do spotify
 
 Status: Developing ⚠️
 ## Compartilhando com vcs aqui meus estudos focados em front-end ao qual eu reproduzi a interface do spotify
